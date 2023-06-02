@@ -11,6 +11,7 @@
 <body>
     <form action='<?php $_SERVER["PHP_SELF"] ?>' method="post">
         <h1>FATORIAL</h1>
+        <p>Beremiz Samir o protagonista era muito bom em problemas matemáticos dificieis, utilizando algoritmos eficientes e estratégias de resolução de problemas.E os algoritmos são a base da computação atual, são conjuntos de instruções lógicas que resolvem problemas.</p>
         <br>
         <br>
         <label for="nota1">NUMERO: </label>
